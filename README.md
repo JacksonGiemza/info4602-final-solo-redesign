@@ -1,1 +1,5 @@
-# info4602-final-solo-redesign
+# Final Solo Redesign
+
+[Medium Post](https://medium.com/@jacksong02.jg/project-1-redesign-exploring-ufo-sightings-with-informative-and-manipulative-visualizations-7fd3ac282823)
+
+This was my final project for my Information visualization course were I had to redesing one of the team projects I completed during the course. The project I decided to redesign was my [UFO Data Visualization](https://github.com/JacksonGiemza/ufo-data-vis-4602) team project. For the original project I collaborated with three classmates to create two informative and two manipulative visualizations, applying the principles taught in our class. The objective of our informative visualizations was to communicate the data accurately, clearly, and effectively, as expected of any high-quality visualization. Conversely, the aim of our manipulative visualizations was to challenge the viewer’s expectations and intentionally mislead through unconventional design choices. I feel I was able to greatly improve my teams and Is visualziation to better comunicate the data in a informative or manipulative way
